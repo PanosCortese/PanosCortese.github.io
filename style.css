@@ -32,8 +32,8 @@ h1, h2, h3, h4, h5, h6, p, a, ul, ol, li
    padding: 0;
 }
 
-/* Reset buttons border. It's important for input and button tags. 
- * border-collapse should be separate for shadow in IE. 
+/* Reset buttons border. It's important for input and button tags.
+ * border-collapse should be separate for shadow in IE.
  */
 .art-button
 {
@@ -41,7 +41,7 @@ h1, h2, h3, h4, h5, h6, p, a, ul, ol, li
    -webkit-background-origin: border !important;
    -moz-background-origin: border !important;
    background-origin: border-box !important;
-   background: #303030;
+   background: color black;
    background: linear-gradient(top, rgba(77, 77, 77, 0.8) 0, rgba(18, 18, 18, 0.8) 100%) no-repeat;
    background: -webkit-linear-gradient(top, rgba(77, 77, 77, 0.8) 0, rgba(18, 18, 18, 0.8) 100%) no-repeat;
    background: -moz-linear-gradient(top, rgba(77, 77, 77, 0.8) 0, rgba(18, 18, 18, 0.8) 100%) no-repeat;
@@ -65,7 +65,7 @@ h1, h2, h3, h4, h5, h6, p, a, ul, ol, li
 .art-postheadericons,
 .art-postfootericons,
 .art-blockcontent,
-ul.art-vmenu a 
+ul.art-vmenu a
 {
    text-align: left;
 }
@@ -156,7 +156,7 @@ ul.art-vmenu a
    text-align: left;
 }
 
-.art-postcontent h1 a, .art-postcontent h1 a:link, .art-postcontent h1 a:hover, .art-postcontent h1 a:visited, .art-blockcontent h1 a, .art-blockcontent h1 a:link, .art-blockcontent h1 a:hover, .art-blockcontent h1 a:visited 
+.art-postcontent h1 a, .art-postcontent h1 a:link, .art-postcontent h1 a:hover, .art-postcontent h1 a:visited, .art-blockcontent h1 a, .art-blockcontent h1 a:link, .art-blockcontent h1 a:hover, .art-blockcontent h1 a:visited
 {
    font-size: 22px;
    font-family: Georgia, 'Times New Roman', Times, Serif;
@@ -189,7 +189,7 @@ ul.art-vmenu a
    text-align: left;
 }
 
-.art-postcontent h2 a, .art-postcontent h2 a:link, .art-postcontent h2 a:hover, .art-postcontent h2 a:visited, .art-blockcontent h2 a, .art-blockcontent h2 a:link, .art-blockcontent h2 a:hover, .art-blockcontent h2 a:visited 
+.art-postcontent h2 a, .art-postcontent h2 a:link, .art-postcontent h2 a:hover, .art-postcontent h2 a:visited, .art-blockcontent h2 a, .art-blockcontent h2 a:link, .art-blockcontent h2 a:hover, .art-blockcontent h2 a:visited
 {
    font-size: 20px;
    font-family: Georgia, 'Times New Roman', Times, Serif;
@@ -222,7 +222,7 @@ ul.art-vmenu a
    text-align: left;
 }
 
-.art-postcontent h3 a, .art-postcontent h3 a:link, .art-postcontent h3 a:hover, .art-postcontent h3 a:visited, .art-blockcontent h3 a, .art-blockcontent h3 a:link, .art-blockcontent h3 a:hover, .art-blockcontent h3 a:visited 
+.art-postcontent h3 a, .art-postcontent h3 a:link, .art-postcontent h3 a:hover, .art-postcontent h3 a:visited, .art-blockcontent h3 a, .art-blockcontent h3 a:link, .art-blockcontent h3 a:hover, .art-blockcontent h3 a:visited
 {
    font-size: 18px;
    font-family: Georgia, 'Times New Roman', Times, Serif;
@@ -257,7 +257,7 @@ ul.art-vmenu a
    text-align: left;
 }
 
-.art-postcontent h4 a, .art-postcontent h4 a:link, .art-postcontent h4 a:hover, .art-postcontent h4 a:visited, .art-blockcontent h4 a, .art-blockcontent h4 a:link, .art-blockcontent h4 a:hover, .art-blockcontent h4 a:visited 
+.art-postcontent h4 a, .art-postcontent h4 a:link, .art-postcontent h4 a:hover, .art-postcontent h4 a:visited, .art-blockcontent h4 a, .art-blockcontent h4 a:link, .art-blockcontent h4 a:hover, .art-blockcontent h4 a:visited
 {
    font-size: 20px;
    font-family: Georgia, 'Times New Roman', Times, Serif;
@@ -288,7 +288,7 @@ ul.art-vmenu a
    text-align: left;
 }
 
-.art-postcontent h5 a, .art-postcontent h5 a:link, .art-postcontent h5 a:hover, .art-postcontent h5 a:visited, .art-blockcontent h5 a, .art-blockcontent h5 a:link, .art-blockcontent h5 a:hover, .art-blockcontent h5 a:visited 
+.art-postcontent h5 a, .art-postcontent h5 a:link, .art-postcontent h5 a:hover, .art-postcontent h5 a:visited, .art-blockcontent h5 a, .art-blockcontent h5 a:link, .art-blockcontent h5 a:hover, .art-blockcontent h5 a:visited
 {
    font-size: 18px;
    font-family: Georgia, 'Times New Roman', Times, Serif;
@@ -317,7 +317,7 @@ ul.art-vmenu a
    text-align: left;
 }
 
-.art-postcontent h6 a, .art-postcontent h6 a:link, .art-postcontent h6 a:hover, .art-postcontent h6 a:visited, .art-blockcontent h6 a, .art-blockcontent h6 a:link, .art-blockcontent h6 a:hover, .art-blockcontent h6 a:visited 
+.art-postcontent h6 a, .art-postcontent h6 a:link, .art-postcontent h6 a:hover, .art-postcontent h6 a:visited, .art-blockcontent h6 a, .art-blockcontent h6 a:link, .art-blockcontent h6 a:hover, .art-blockcontent h6 a:visited
 {
    font-size: 15px;
    font-family: Georgia, 'Times New Roman', Times, Serif;
@@ -390,31 +390,31 @@ table.position
    table-layout: fixed;
 }
 
-li h1, .art-postcontent li h1, .art-blockcontent li h1 
+li h1, .art-postcontent li h1, .art-blockcontent li h1
 {
    margin:1px;
-} 
-li h2, .art-postcontent li h2, .art-blockcontent li h2 
+}
+li h2, .art-postcontent li h2, .art-blockcontent li h2
 {
    margin:1px;
-} 
-li h3, .art-postcontent li h3, .art-blockcontent li h3 
+}
+li h3, .art-postcontent li h3, .art-blockcontent li h3
 {
    margin:1px;
-} 
-li h4, .art-postcontent li h4, .art-blockcontent li h4 
+}
+li h4, .art-postcontent li h4, .art-blockcontent li h4
 {
    margin:1px;
-} 
-li h5, .art-postcontent li h5, .art-blockcontent li h5 
+}
+li h5, .art-postcontent li h5, .art-blockcontent li h5
 {
    margin:1px;
-} 
-li h6, .art-postcontent li h6, .art-blockcontent li h6 
+}
+li h6, .art-postcontent li h6, .art-blockcontent li h6
 {
    margin:1px;
-} 
-li p, .art-postcontent li p, .art-blockcontent li p 
+}
+li p, .art-postcontent li p, .art-blockcontent li p
 {
    margin:1px;
 }
@@ -466,7 +466,7 @@ li p, .art-postcontent li p, .art-blockcontent li p
    background-repeat: no-repeat;
 }
 
-.responsive .art-header 
+.responsive .art-header
 {
    background-image: url('images/header.jpg');
    background-position: center center;
@@ -479,7 +479,7 @@ li p, .art-postcontent li p, .art-blockcontent li p
    margin: 0 auto;
 }
 
-.art-header>.widget 
+.art-header>.widget
 {
    position:absolute;
    z-index:101;
@@ -502,7 +502,7 @@ li p, .art-postcontent li p, .art-blockcontent li p
    z-index: 499;
 }
 
-ul.art-hmenu a, ul.art-hmenu a:link, ul.art-hmenu a:visited, ul.art-hmenu a:hover 
+ul.art-hmenu a, ul.art-hmenu a:link, ul.art-hmenu a:visited, ul.art-hmenu a:hover
 {
    outline: none;
    position: relative;
@@ -546,12 +546,12 @@ ul.art-hmenu:after, ul.art-hmenu ul:after
    clear: both;
 }
 
-ul.art-hmenu, ul.art-hmenu ul 
+ul.art-hmenu, ul.art-hmenu ul
 {
    min-height: 0;
 }
 
-ul.art-hmenu 
+ul.art-hmenu
 {
    display: inline-block;
    vertical-align: bottom;
@@ -559,7 +559,7 @@ ul.art-hmenu
    padding-right: 4px;
 }
 
-.art-nav-inner:before 
+.art-nav-inner:before
 {
    content:' ';
 }
@@ -645,10 +645,10 @@ ul.art-hmenu>li>a
    text-align: center;
 }
 
-.art-hmenu a, 
-.art-hmenu a:link, 
-.art-hmenu a:visited, 
-.art-hmenu a.active, 
+.art-hmenu a,
+.art-hmenu a:link,
+.art-hmenu a:visited,
+.art-hmenu a.active,
 .art-hmenu a:hover
 {
    font-size: 15px;
@@ -681,8 +681,8 @@ ul.art-hmenu>li>a.active
    text-decoration: none;
 }
 
-ul.art-hmenu>li>a:visited, 
-ul.art-hmenu>li>a:hover, 
+ul.art-hmenu>li>a:visited,
+ul.art-hmenu>li>a:hover,
 ul.art-hmenu>li:hover>a {
    text-decoration: none;
 }
@@ -703,7 +703,7 @@ ul.art-hmenu>li>a:hover, .desktop ul.art-hmenu>li:hover>a
    padding:0 50px;
    margin:0 auto;
 }
-ul.art-hmenu>li>a:hover, 
+ul.art-hmenu>li>a:hover,
 .desktop ul.art-hmenu>li:hover>a {
    color: #FFFFFF;
    text-decoration: none;
@@ -719,7 +719,7 @@ ul.art-hmenu li li a
    padding:0 8px;
    margin:0 auto;
 }
-ul.art-hmenu li li 
+ul.art-hmenu li li
 {
    float: none;
    width: auto;
@@ -727,12 +727,12 @@ ul.art-hmenu li li
    margin-bottom: 0;
 }
 
-.desktop ul.art-hmenu li li ul>li:first-child 
+.desktop ul.art-hmenu li li ul>li:first-child
 {
    margin-top: 0;
 }
 
-ul.art-hmenu li li ul>li:last-child 
+ul.art-hmenu li li ul>li:last-child
 {
    margin-bottom: 0;
 }
@@ -755,9 +755,9 @@ ul.art-hmenu li li ul>li:last-child
    margin:0;
 }
 
-.art-hmenu ul a:link, 
-.art-hmenu ul a:visited, 
-.art-hmenu ul a.active, 
+.art-hmenu ul a:link,
+.art-hmenu ul a:visited,
+.art-hmenu ul a.active,
 .art-hmenu ul a:hover
 {
    text-align: left;
@@ -827,14 +827,14 @@ ul.art-hmenu ul
    margin: -30px 0 0 -10px;
 }
 
-.desktop ul.art-hmenu ul.art-hmenu-left-to-right 
+.desktop ul.art-hmenu ul.art-hmenu-left-to-right
 {
    right: auto;
    left: 0;
    margin: -10px 0 0 -30px;
 }
 
-.desktop ul.art-hmenu ul.art-hmenu-right-to-left 
+.desktop ul.art-hmenu ul.art-hmenu-right-to-left
 {
    left: auto;
    right: 0;
@@ -935,7 +935,7 @@ ul.art-hmenu ul
    table-layout: fixed;
 }
 
-.art-content-layout-row 
+.art-content-layout-row
 {
    display: table-row;
 }
@@ -946,7 +946,7 @@ ul.art-hmenu ul
    vertical-align: top;
 }
 
-/* need only for content layout in post content */ 
+/* need only for content layout in post content */
 .art-postcontent .art-content-layout
 {
    border-collapse: collapse;
@@ -971,7 +971,7 @@ div.art-block img
 .art-blockheader .t,
 .art-blockheader .t a,
 .art-blockheader .t a:link,
-.art-blockheader .t a:visited, 
+.art-blockheader .t a:visited,
 .art-blockheader .t a:hover
 {
    color: #696969;
@@ -994,7 +994,7 @@ div.art-block img
    font-family: Georgia, 'Times New Roman', Times, Serif;
 }
 .art-blockcontent table,
-.art-blockcontent li, 
+.art-blockcontent li,
 .art-blockcontent a,
 .art-blockcontent a:link,
 .art-blockcontent a:visited,
@@ -1118,7 +1118,7 @@ input, select, textarea, a.art-search-button span
    font-family: Georgia, 'Times New Roman', Times, Serif;
 }
 
-.art-block select 
+.art-block select
 {
    width:96%;
 }
@@ -1223,7 +1223,7 @@ form.art-search input[type="text"]
    font-weight: normal;
    font-style: normal;
 }
-form.art-search 
+form.art-search
 {
    background-image: none;
    border: 0;
@@ -1285,7 +1285,7 @@ a.art-search-button:after {
 
 a.art-search-button, a.art-search-button span,
 a.art-search-button:visited, a.art-search-button.visited,
-a.art-search-button:hover, a.art-search-button.hover 
+a.art-search-button:hover, a.art-search-button.hover
 {
    text-decoration: none;
    font-size: 14px;
@@ -1426,7 +1426,7 @@ label.art-radiobutton.hovered:before
    margin:0 auto;
    margin-left: 94px;
 }
-.art-comment-avatar 
+.art-comment-avatar
 {
    float:left;
    width:80px;
@@ -1466,8 +1466,8 @@ label.art-radiobutton.hovered:before
    line-height: 100%;
 }
 
-.art-comment-header a, 
-.art-comment-header a:link, 
+.art-comment-header a,
+.art-comment-header a:link,
 .art-comment-header a:visited,
 .art-comment-header a.visited,
 .art-comment-header a:hover,
@@ -1495,8 +1495,8 @@ label.art-radiobutton.hovered:before
    color: #828282;
 }
 
-.art-comment-content a, 
-.art-comment-content a:link, 
+.art-comment-content a,
+.art-comment-content a:link,
 .art-comment-content a:visited,
 .art-comment-content a.visited,
 .art-comment-content a:hover,
@@ -1810,8 +1810,8 @@ pre
    text-transform: uppercase;
 }
 
-.art-postheader a, 
-.art-postheader a:link, 
+.art-postheader a,
+.art-postheader a:link,
 .art-postheader a:visited,
 .art-postheader a.visited,
 .art-postheader a:hover,
@@ -2217,7 +2217,7 @@ blockquote p,
 .art-footer a:link,
 .art-footer a:visited,
 .art-footer a:hover,
-.art-footer td, 
+.art-footer td,
 .art-footer th,
 .art-footer caption
 {
@@ -2228,7 +2228,7 @@ blockquote p,
    font-style: italic;
 }
 
-.art-footer p 
+.art-footer p
 {
    padding:0;
    text-align: center;
@@ -2363,7 +2363,7 @@ blockquote p,
    color: #D1E5F5;
 }
 
-.art-page-footer, 
+.art-page-footer,
 .art-page-footer a,
 .art-page-footer a:link,
 .art-page-footer a:visited,
@@ -2389,7 +2389,7 @@ blockquote p,
    color: #D4D4D4;
 }
 
-.art-lightbox-wrapper 
+.art-lightbox-wrapper
 {
    background: #333;
    background: rgba(0, 0, 0, .8);
@@ -2478,12 +2478,12 @@ blockquote p,
    filter: alpha(opacity=100);
 }
 
-.art-lightbox-wrapper .arrow.disabled 
+.art-lightbox-wrapper .arrow.disabled
 {
    display: none;
 }
 
-.art-lightbox-wrapper .arrow-t, 
+.art-lightbox-wrapper .arrow-t,
 .art-lightbox-wrapper .arrow-b
 {
    background-color: #fff;
@@ -2517,13 +2517,13 @@ blockquote p,
    z-index: 10003;
 }
 
-.art-lightbox-wrapper .close:hover 
+.art-lightbox-wrapper .close:hover
 {
    opacity: 1;
    filter: alpha(opacity=100);
 }
 
-.art-lightbox-wrapper .close .cw, 
+.art-lightbox-wrapper .close .cw,
 .art-lightbox-wrapper .close .ccw
 {
    background-color: #fff;
@@ -2559,9 +2559,9 @@ blockquote p,
     -moz-transform: rotate(-45deg);
 /* Firefox */}
 
-.art-lightbox-wrapper .close-alt, 
-.art-lightbox-wrapper .arrow-right-alt, 
-.art-lightbox-wrapper .arrow-left-alt 
+.art-lightbox-wrapper .close-alt,
+.art-lightbox-wrapper .arrow-right-alt,
+.art-lightbox-wrapper .arrow-left-alt
 {
    color: #fff;
    display: none;
@@ -2569,15 +2569,15 @@ blockquote p,
    line-height: 100%;
 }
 
-.ie8 .art-lightbox-wrapper .close-alt, 
-.ie8 .art-lightbox-wrapper .arrow-right-alt, 
-.ie8 .art-lightbox-wrapper .arrow-left-alt 
+.ie8 .art-lightbox-wrapper .close-alt,
+.ie8 .art-lightbox-wrapper .arrow-right-alt,
+.ie8 .art-lightbox-wrapper .arrow-left-alt
 {
    display: block;
 }
 
-.ie8 .art-lightbox-wrapper .cw, 
-.ie8 .art-lightbox-wrapper .ccw 
+.ie8 .art-lightbox-wrapper .cw,
+.ie8 .art-lightbox-wrapper .ccw
 {
    display: none;
 }
