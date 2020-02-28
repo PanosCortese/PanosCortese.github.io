@@ -640,7 +640,7 @@ ul.art-hmenu>li>a
    height: 50px;
    cursor: pointer;
    text-decoration: none;
-   color: black;
+   color: #CCCCCC;
    line-height: 50px;
    text-align: center;
 }
