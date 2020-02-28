@@ -991,7 +991,7 @@ div.art-block img
    margin:0 auto;
    color: black;
    font-size: 16px;
-   line-height:1;
+   line-height:10;
    font-family: Georgia, 'Times New Roman', Times, Serif;
 }
 .art-blockcontent table,
@@ -1003,7 +1003,7 @@ div.art-block img
 {
    color: black;
    font-size: 16px;
-   line-height:1;
+   line-height:10;
    font-family: Georgia, 'Times New Roman', Times, Serif;
 }
 
