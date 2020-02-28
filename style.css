@@ -746,7 +746,7 @@ ul.art-hmenu li li ul>li:last-child
    border: 0 solid transparent;
    text-align: left;
    line-height: 24px;
-   color: #1C1C1C;
+   color: black;
    font-size: 13px;
    font-family: Georgia, 'Times New Roman', Times, Serif;
    font-weight: normal;
@@ -762,7 +762,7 @@ ul.art-hmenu li li ul>li:last-child
 {
    text-align: left;
    line-height: 24px;
-   color: #1C1C1C;
+   color: black;
    font-size: 13px;
    font-family: Georgia, 'Times New Roman', Times, Serif;
    font-weight: normal;
@@ -974,7 +974,7 @@ div.art-block img
 .art-blockheader .t a:visited,
 .art-blockheader .t a:hover
 {
-   color: #696969;
+   color: black;
    font-size: 15px;
    font-family: Georgia, 'Times New Roman', Times, Serif;
    font-weight: normal;
@@ -989,7 +989,7 @@ div.art-block img
    background: #EBEBEB;
    padding:10px;
    margin:0 auto;
-   color: #242424;
+   color: black;
    font-size: 13px;
    font-family: Georgia, 'Times New Roman', Times, Serif;
 }
@@ -1000,7 +1000,7 @@ div.art-block img
 .art-blockcontent a:visited,
 .art-blockcontent a:hover
 {
-   color: #242424;
+   color: black;
    font-size: 13px;
    font-family: Georgia, 'Times New Roman', Times, Serif;
 }
@@ -1053,7 +1053,7 @@ div.art-block img
    font-size: 13px;
    font-family: Georgia, 'Times New Roman', Times, Serif;
    line-height: 125%;
-   color: #4A4A4A;
+   color: black;
 }
 
 .art-block ul>li, .art-block ol
@@ -1800,7 +1800,7 @@ pre
 
 .art-postheader
 {
-   color: #474747;
+   color: black;
    margin: 20px 0 0;
    font-size: 22px;
    font-family: Georgia, 'Times New Roman', Times, Serif;
@@ -1838,7 +1838,7 @@ pre
 {
    font-family: Georgia, 'Times New Roman', Times, Serif;
    text-decoration: none;
-   color: #696969;
+   color: black;
 }
 
 .art-postheader a:hover,  .art-postheader a.hovered
@@ -2014,7 +2014,7 @@ pre
    font-size: 18px;
    font-family: Georgia, 'Times New Roman', Times, Serif;
    text-align: left;
-   color: #3D3D3D;
+   color: black;
    margin: 0 0 0 36px;
 }
 
@@ -2080,7 +2080,7 @@ blockquote a:link, .art-postcontent blockquote a:link, .art-blockcontent blockqu
 blockquote a:visited, .art-postcontent blockquote a:visited, .art-blockcontent blockquote a:visited, .art-footer blockquote a:visited,
 blockquote a:hover, .art-postcontent blockquote a:hover, .art-blockcontent blockquote a:hover, .art-footer blockquote a:hover
 {
-   color: #2E2E2E;
+   color: black;
    font-family: Georgia, 'Times New Roman', Times, Serif;
    font-weight: normal;
    font-style: italic;
