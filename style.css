@@ -114,7 +114,7 @@ ul.art-vmenu a
    font-family: Georgia, 'Times New Roman', Times, Serif;
    text-decoration: underline;
    letter-spacing: 1px;
-   color: #F6A104;
+   color: #0000ff;
 }
 
 .art-postcontent a:visited, .art-postcontent a.visited
@@ -122,7 +122,7 @@ ul.art-vmenu a
    font-family: Georgia, 'Times New Roman', Times, Serif;
    text-decoration: underline;
    letter-spacing: 1px;
-   color: #F6A104;
+   color: #0000ff;
 }
 
 .art-postcontent  a:hover, .art-postcontent a.hover
