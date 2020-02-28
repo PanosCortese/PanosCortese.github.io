@@ -1039,7 +1039,7 @@ div.art-block img
    display:inline-block;
    vertical-align:middle;
    font-size:0;
-   line-height:0;
+   line-height:1;
    margin-left: -9px;
 }
 .opera .art-block ul>li:before
@@ -1233,7 +1233,7 @@ form.art-search
    padding:0;
    margin:5px;
    left:0;
-   line-height: 0;
+   line-height:1;
 }
 
 form.art-search input, a.art-search-button
@@ -1898,7 +1898,7 @@ pre
    display:inline-block;
    vertical-align:middle;
    font-size:0;
-   line-height:0;
+   line-height:1;
    bottom: auto;
 }
 .opera .art-postdateicon:before
@@ -1915,7 +1915,7 @@ pre
    display:inline-block;
    vertical-align:middle;
    font-size:0;
-   line-height:0;
+   line-height:1;
    bottom: auto;
 }
 .opera .art-postauthoricon:before
@@ -1932,7 +1932,7 @@ pre
    display:inline-block;
    vertical-align:middle;
    font-size:0;
-   line-height:0;
+   line-height:1;
    bottom: auto;
 }
 .opera .art-postpdficon:before
@@ -1949,7 +1949,7 @@ pre
    display:inline-block;
    vertical-align:middle;
    font-size:0;
-   line-height:0;
+   line-height:1;
    bottom: auto;
 }
 .opera .art-postprinticon:before
@@ -1967,7 +1967,7 @@ pre
    display:inline-block;
    vertical-align:middle;
    font-size:0;
-   line-height:0;
+   line-height:1;
 }
 .opera .art-postemailicon:before
 {
@@ -1983,7 +1983,7 @@ pre
    display:inline-block;
    vertical-align:middle;
    font-size:0;
-   line-height:0;
+   line-height:1;
    bottom: auto;
 }
 .opera .art-postediticon:before
@@ -2001,7 +2001,7 @@ pre
    display:inline-block;
    vertical-align:middle;
    font-size:0;
-   line-height:0;
+   line-height:1;
 }
 .opera .art-postcontent ul>li:before, .opera   .art-post ul>li:before, .opera   .art-textblock ul>li:before
 {
@@ -2155,7 +2155,7 @@ blockquote p,
    display:inline-block;
    vertical-align:middle;
    font-size:0;
-   line-height:0;
+   line-height:1;
    bottom: auto;
 }
 .opera .art-postcategoryicon:before
@@ -2172,7 +2172,7 @@ blockquote p,
    display:inline-block;
    vertical-align:middle;
    font-size:0;
-   line-height:0;
+   line-height:1;
    bottom: auto;
 }
 .opera .art-posttagicon:before
@@ -2189,7 +2189,7 @@ blockquote p,
    display:inline-block;
    vertical-align:middle;
    font-size:0;
-   line-height:0;
+   line-height:1;
    bottom: auto;
 }
 .opera .art-postcommentsicon:before
