@@ -5,7 +5,7 @@
    background: #FFFFFF url('images/page.png') fixed;
    margin:0 auto;
    font-size: 20px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    font-weight: normal;
    font-style: normal;
    text-align: justify;
@@ -20,7 +20,7 @@
 table, ul.art-hmenu
 {
    font-size: 16px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    font-weight: normal;
    font-style: normal;
    text-align: justify;
@@ -80,7 +80,7 @@ ul.art-vmenu a
 .art-postcontent a:hover,
 .art-postcontent a.hovered
 {
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
 .art-postcontent p
@@ -101,7 +101,7 @@ ul.art-vmenu a
 .art-postheader, .art-postheader a, .art-postheader a:link, .art-postheader a:visited, .art-postheader a:hover
 {
    font-size: 31px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    font-weight: bold;
    font-style: normal;
    text-decoration: none;
@@ -111,7 +111,7 @@ ul.art-vmenu a
 
 .art-postcontent a, .art-postcontent a:link
 {
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    text-decoration: underline;
    letter-spacing: 1px;
    color: #0000ff;
@@ -119,7 +119,7 @@ ul.art-vmenu a
 
 .art-postcontent a:visited, .art-postcontent a.visited
 {
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    text-decoration: underline;
    letter-spacing: 1px;
    color: #0000ff;
@@ -127,7 +127,7 @@ ul.art-vmenu a
 
 .art-postcontent  a:hover, .art-postcontent a.hover
 {
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    text-decoration: none;
    letter-spacing: 1px;
    color: #57A0DB;
@@ -138,7 +138,7 @@ ul.art-vmenu a
    color: #000000;
    margin: 0 0 5px;
    font-size: 22px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    font-weight: normal;
    font-style: normal;
    text-transform: uppercase;
@@ -149,7 +149,7 @@ ul.art-vmenu a
 {
    margin: 0 0 5px;
    font-size: 22px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    font-weight: normal;
    font-style: normal;
    text-transform: uppercase;
@@ -159,7 +159,7 @@ ul.art-vmenu a
 .art-postcontent h1 a, .art-postcontent h1 a:link, .art-postcontent h1 a:hover, .art-postcontent h1 a:visited, .art-blockcontent h1 a, .art-blockcontent h1 a:link, .art-blockcontent h1 a:hover, .art-blockcontent h1 a:visited
 {
    font-size: 22px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    font-weight: normal;
    font-style: normal;
    text-transform: uppercase;
@@ -171,7 +171,7 @@ ul.art-vmenu a
    color: #000000;
    margin: 0 0 10px;
    font-size: 20px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    font-weight: normal;
    font-style: normal;
    text-transform: uppercase;
@@ -182,7 +182,7 @@ ul.art-vmenu a
 {
    margin: 0 0 10px;
    font-size: 20px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    font-weight: normal;
    font-style: normal;
    text-transform: uppercase;
@@ -192,7 +192,7 @@ ul.art-vmenu a
 .art-postcontent h2 a, .art-postcontent h2 a:link, .art-postcontent h2 a:hover, .art-postcontent h2 a:visited, .art-blockcontent h2 a, .art-blockcontent h2 a:link, .art-blockcontent h2 a:hover, .art-blockcontent h2 a:visited
 {
    font-size: 20px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    font-weight: normal;
    font-style: normal;
    text-transform: uppercase;
@@ -204,7 +204,7 @@ ul.art-vmenu a
    color: #0000ff;
    margin: 0 0 5px;
    font-size: 20px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    font-weight: normal;
    font-style: normal;
    text-transform: uppercase;
@@ -215,7 +215,7 @@ ul.art-vmenu a
 {
    margin: 0 0 5px;
    font-size: 20px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    font-weight: normal;
    font-style: normal;
    text-transform: uppercase;
@@ -225,7 +225,7 @@ ul.art-vmenu a
 .art-postcontent h3 a, .art-postcontent h3 a:link, .art-postcontent h3 a:hover, .art-postcontent h3 a:visited, .art-blockcontent h3 a, .art-blockcontent h3 a:link, .art-blockcontent h3 a:hover, .art-blockcontent h3 a:visited
 {
    font-size: 20px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    font-weight: normal;
    font-style: normal;
    text-transform: uppercase;
@@ -238,7 +238,7 @@ ul.art-vmenu a
    margin-top: 0;
    margin-bottom: 0;
    font-size: 20px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    font-weight: normal;
    font-style: normal;
    text-transform: uppercase;
@@ -250,7 +250,7 @@ ul.art-vmenu a
    margin-top: 0;
    margin-bottom: 0;
    font-size: 20px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    font-weight: normal;
    font-style: normal;
    text-transform: uppercase;
@@ -260,7 +260,7 @@ ul.art-vmenu a
 .art-postcontent h4 a, .art-postcontent h4 a:link, .art-postcontent h4 a:hover, .art-postcontent h4 a:visited, .art-blockcontent h4 a, .art-blockcontent h4 a:link, .art-blockcontent h4 a:hover, .art-blockcontent h4 a:visited
 {
    font-size: 20px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    font-weight: normal;
    font-style: normal;
    text-transform: uppercase;
@@ -273,7 +273,7 @@ ul.art-vmenu a
    margin-top: 27px;
    margin-bottom: 27px;
    font-size: 20px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    text-transform: uppercase;
    text-align: left;
 }
@@ -283,7 +283,7 @@ ul.art-vmenu a
    margin-top: 27px;
    margin-bottom: 27px;
    font-size: 20px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    text-transform: uppercase;
    text-align: left;
 }
@@ -291,7 +291,7 @@ ul.art-vmenu a
 .art-postcontent h5 a, .art-postcontent h5 a:link, .art-postcontent h5 a:hover, .art-postcontent h5 a:visited, .art-blockcontent h5 a, .art-blockcontent h5 a:link, .art-blockcontent h5 a:hover, .art-blockcontent h5 a:visited
 {
    font-size: 20px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    text-transform: uppercase;
    text-align: left;
 }
@@ -302,7 +302,7 @@ ul.art-vmenu a
    margin-top: 32px;
    margin-bottom: 32px;
    font-size: 16px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    text-transform: uppercase;
    text-align: left;
 }
@@ -312,7 +312,7 @@ ul.art-vmenu a
    margin-top: 32px;
    margin-bottom: 32px;
    font-size: 16px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    text-transform: uppercase;
    text-align: left;
 }
@@ -320,7 +320,7 @@ ul.art-vmenu a
 .art-postcontent h6 a, .art-postcontent h6 a:link, .art-postcontent h6 a:hover, .art-postcontent h6 a:visited, .art-blockcontent h6 a, .art-blockcontent h6 a:link, .art-blockcontent h6 a:hover, .art-blockcontent h6 a:visited
 {
    font-size: 16px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    text-transform: uppercase;
    text-align: left;
 }
@@ -652,7 +652,7 @@ ul.art-hmenu>li>a
 .art-hmenu a:hover
 {
    font-size: 16px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    font-weight: normal;
    font-style: normal;
    text-decoration: none;
@@ -748,7 +748,7 @@ ul.art-hmenu li li ul>li:last-child
    line-height: 24px;
    color: black;
    font-size: 16px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    font-weight: normal;
    font-style: normal;
    text-decoration: none;
@@ -764,7 +764,7 @@ ul.art-hmenu li li ul>li:last-child
    line-height: 24px;
    color: black;
    font-size: 16px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    font-weight: normal;
    font-style: normal;
    text-decoration: none;
@@ -976,7 +976,7 @@ div.art-block img
 {
    color: black;
    font-size: 16px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    font-weight: normal;
    font-style: normal;
    text-transform: uppercase;
@@ -992,7 +992,7 @@ div.art-block img
    color: black;
    font-size: 16px;
    line-height:10;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 .art-blockcontent table,
 .art-blockcontent li,
@@ -1004,7 +1004,7 @@ div.art-block img
    color: black;
    font-size: 16px;
    line-height:10;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
 .art-blockcontent p
@@ -1015,21 +1015,21 @@ div.art-block img
 .art-blockcontent a, .art-blockcontent a:link
 {
    color: #FCB127;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    text-decoration: underline;
 }
 
 .art-blockcontent a:visited, .art-blockcontent a.visited
 {
    color: #FCB127;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    text-decoration: underline;
 }
 
 .art-blockcontent a:hover, .art-blockcontent a.hover
 {
    color: #FCC04F;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    text-decoration: none;
 }
 .art-block ul>li:before
@@ -1053,7 +1053,7 @@ div.art-block img
 .art-block li
 {
    font-size: 16px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    line-height: 125%;
    color: black;
 }
@@ -1084,7 +1084,7 @@ button.art-button
 {
    text-decoration: none;
    font-size: 16px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    position:relative;
    display: inline-block;
    vertical-align: middle;
@@ -1117,7 +1117,7 @@ input, select, textarea, a.art-search-button span
 {
    vertical-align: middle;
    font-size: 16px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
 .art-block select
@@ -1190,7 +1190,7 @@ input[type="text"], input[type="password"], input[type="email"], input[type="url
    padding: 8px 0;
    color: #154165 !important;
    font-size: 16px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    font-weight: normal;
    font-style: normal;
    text-shadow: none;
@@ -1204,7 +1204,7 @@ input.art-error, textarea.art-error
 input.art-error, textarea.art-error {
    color: #154165 !important;
    font-size: 16px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    font-weight: normal;
    font-style: normal;
 }
@@ -1221,7 +1221,7 @@ form.art-search input[type="text"]
    box-sizing: border-box;
    color: #154165 !important;
    font-size: 16px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    font-weight: normal;
    font-style: normal;
 }
@@ -1269,7 +1269,7 @@ form.art-search input[type="submit"], input.art-search-button, a.art-search-butt
    padding:0 6px;
    color: #8D5C02 !important;
    font-size: 16px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    font-weight: normal;
    font-style: normal;
    cursor: pointer;
@@ -1291,7 +1291,7 @@ a.art-search-button:hover, a.art-search-button.hover
 {
    text-decoration: none;
    font-size: 16px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    font-weight: normal;
    font-style: normal;
 }
@@ -1311,7 +1311,7 @@ label.art-checkbox
 {
    cursor: pointer;
    font-size: 16px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    font-weight: normal;
    font-style: normal;
    line-height: 16px;
@@ -1365,7 +1365,7 @@ label.art-radiobutton
 {
    cursor: pointer;
    font-size: 16px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    font-weight: normal;
    font-style: normal;
    line-height: 12px;
@@ -1448,7 +1448,7 @@ label.art-radiobutton.hovered:before
 {
    padding:10px 0;
    color: #794F02;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
 .art-comment
@@ -1464,7 +1464,7 @@ label.art-radiobutton.hovered:before
 .art-comment-header
 {
    color: #000000;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    line-height: 100%;
 }
 
@@ -1475,25 +1475,25 @@ label.art-radiobutton.hovered:before
 .art-comment-header a:hover,
 .art-comment-header a.hovered
 {
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    line-height: 100%;
 }
 
 .art-comment-header a, .art-comment-header a:link
 {
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    color: #000000;
 }
 
 .art-comment-header a:visited, .art-comment-header a.visited
 {
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    color: #000000;
 }
 
 .art-comment-header a:hover,  .art-comment-header a.hovered
 {
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    color: #000000;
 }
 
@@ -1504,24 +1504,24 @@ label.art-radiobutton.hovered:before
 .art-comment-content a:hover,
 .art-comment-content a.hovered
 {
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
 .art-comment-content a, .art-comment-content a:link
 {
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    color: #246DA8;
 }
 
 .art-comment-content a:visited, .art-comment-content a.visited
 {
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    color: #A16902;
 }
 
 .art-comment-content a:hover,  .art-comment-content a.hovered
 {
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    color: #246DA8;
 }
 
@@ -1576,7 +1576,7 @@ label.art-radiobutton.hovered:before
 .art-pager a:link,
 .art-pager a:visited
 {
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    text-decoration: none;
    color: #1F1F1F
 ;
@@ -1805,7 +1805,7 @@ pre
    color: black;
    margin: 20px 0 0;
    font-size: 22px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    font-weight: bold;
    font-style: normal;
    letter-spacing: normal;
@@ -1820,7 +1820,7 @@ pre
 .art-postheader a.hovered
 {
    font-size: 22px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    font-weight: bold;
    font-style: normal;
    letter-spacing: normal;
@@ -1829,7 +1829,7 @@ pre
 
 .art-postheader a, .art-postheader a:link
 {
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    text-decoration: none;
    text-transform: uppercase;
    text-align: left;
@@ -1838,14 +1838,14 @@ pre
 
 .art-postheader a:visited, .art-postheader a.visited
 {
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    text-decoration: none;
    color: black;
 }
 
 .art-postheader a:hover,  .art-postheader a.hovered
 {
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    text-decoration: underline;
    color: #164469;
 }
@@ -1857,7 +1857,7 @@ pre
 .art-postheadericons a:hover
 {
    font-size: 16px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    font-weight: normal;
    font-style: italic;
    color: #363636;
@@ -1870,7 +1870,7 @@ pre
 
 .art-postheadericons a, .art-postheadericons a:link
 {
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    text-decoration: underline;
    letter-spacing: 1px;
    color: #4F4F4F;
@@ -1878,7 +1878,7 @@ pre
 
 .art-postheadericons a:visited, .art-postheadericons a.visited
 {
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    text-decoration: underline;
    letter-spacing: 1px;
    color: #4F4F4F;
@@ -1886,7 +1886,7 @@ pre
 
 .art-postheadericons a:hover, .art-postheadericons a.hover
 {
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    text-decoration: none;
    letter-spacing: 1px;
    color: #1A1A1A;
@@ -2014,7 +2014,7 @@ pre
 .art-postcontent li, .art-post li, .art-textblock li
 {
    font-size: 20px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    text-align: left;
    color: black;
    margin: 0 0 0 36px;
@@ -2069,7 +2069,7 @@ blockquote
    padding:15px 15px 15px 52px;
    margin:0 0 0 15px;
    color: #2E2E2E;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    font-weight: normal;
    font-style: italic;
    text-align: left;
@@ -2083,7 +2083,7 @@ blockquote a:visited, .art-postcontent blockquote a:visited, .art-blockcontent b
 blockquote a:hover, .art-postcontent blockquote a:hover, .art-blockcontent blockquote a:hover, .art-footer blockquote a:hover
 {
    color: black;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    font-weight: normal;
    font-style: italic;
    text-align: left;
@@ -2116,7 +2116,7 @@ blockquote p,
 .art-postfootericons a:hover
 {
    font-size: 16px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    font-weight: normal;
    font-style: italic;
    color: #363636;
@@ -2129,7 +2129,7 @@ blockquote p,
 
 .art-postfootericons a, .art-postfootericons a:link
 {
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    text-decoration: underline;
    letter-spacing: 1px;
    color: #4F4F4F;
@@ -2137,14 +2137,14 @@ blockquote p,
 
 .art-postfootericons a:visited, .art-postfootericons a.visited
 {
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    text-decoration: underline;
    color: #4F4F4F;
 }
 
 .art-postfootericons a:hover, .art-postfootericons a.hover
 {
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    text-decoration: none;
    color: #1A1A1A;
 }
@@ -2208,7 +2208,7 @@ blockquote p,
    position: relative;
    color: #C9C9C9;
    font-size: 16px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    font-weight: normal;
    font-style: italic;
    text-align: center;
@@ -2225,7 +2225,7 @@ blockquote p,
 {
    color: #C9C9C9;
    font-size: 16px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    font-weight: normal;
    font-style: italic;
 }
@@ -2240,58 +2240,58 @@ blockquote p,
 .art-footer a:link
 {
    color: #0000ff;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    text-decoration: none;
 }
 
 .art-footer a:visited
 {
    color: #0000ff;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    text-decoration: none;
 }
 
 .art-footer a:hover
 {
    color: #78B3E2;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    text-decoration: underline;
 }
 
 .art-footer h1
 {
    color: #6E6E6E;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
 .art-footer h2
 {
    color: #8C8C8C;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
 .art-footer h3
 {
    color: #6CACE0;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
 .art-footer h4
 {
    color: #FDC763;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
 .art-footer h5
 {
    color: #FDC763;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
 .art-footer h6
 {
    color: #FDC763;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
 .art-footer img
@@ -2360,7 +2360,7 @@ blockquote p,
 .art-footer li
 {
    font-size: 16px;
-   font-family: Georgia, 'Times New Roman', Times, Serif;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
    line-height: 125%;
    color: #D1E5F5;
 }
