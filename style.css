@@ -984,7 +984,7 @@ div.art-block img
 
 .art-blockcontent
 {
-   background: #D9D9D9;
+   background: white;
    padding:10px;
    margin:0 auto;
    color: black;
@@ -1178,7 +1178,7 @@ input.art-button
 
 input[type="text"], input[type="password"], input[type="email"], input[type="url"], textarea
 {
-   background: #F9FAFB;
+   background: white;
    border:1px solid rgba(108, 172, 224, 0.2);
    margin:0 auto;
 }
@@ -1195,7 +1195,7 @@ input[type="text"], input[type="password"], input[type="email"], input[type="url
 }
 input.art-error, textarea.art-error
 {
-   background: #F9FAFB;
+   background: white;
    border:1px solid #E2341D;
    margin:0 auto;
 }
@@ -1208,7 +1208,7 @@ input.art-error, textarea.art-error {
 }
 form.art-search input[type="text"]
 {
-   background: #F9FAFB;
+   background: white;
    border-radius: 0;
    border:1px solid #CCD6E0;
    margin:0 auto;
@@ -1296,7 +1296,7 @@ a.art-search-button:hover, a.art-search-button.hover
 
 label.art-checkbox:before
 {
-   background: #F9FAFB;
+   background: white;
    -webkit-border-radius:1px;
    -moz-border-radius:1px;
    border-radius:1px;
@@ -1350,7 +1350,7 @@ label.art-checkbox.hovered:before
 
 label.art-radiobutton:before
 {
-   background: #F9FAFB;
+   background: white;
    -webkit-border-radius:3px;
    -moz-border-radius:3px;
    border-radius:3px;
@@ -1417,7 +1417,7 @@ label.art-radiobutton.hovered:before
 
 .art-comment-inner
 {
-   background: #E2E8EE;
+   background: white;
    background: transparent;
    -webkit-border-radius:2px;
    -moz-border-radius:2px;
@@ -1432,7 +1432,7 @@ label.art-radiobutton.hovered:before
    width:80px;
    height:80px;
    padding:1px;
-   background:#fff;
+   background: white;
    border:1px solid #E2E8EE;
 }
 
@@ -1525,7 +1525,7 @@ label.art-radiobutton.hovered:before
 
 .art-pager
 {
-   background: #EFF2F5;
+   background: white;
    background: linear-gradient(top, white 0, #93A8BE 100%) no-repeat;
    background: -webkit-linear-gradient(top, white 0, #93A8BE 100%) no-repeat;
    background: -moz-linear-gradient(top, white 0, #93A8BE 100%) no-repeat;
@@ -1552,7 +1552,7 @@ label.art-radiobutton.hovered:before
 
 .art-pager>*
 {
-   background: #D4D4D4;
+   background: white;
    background: linear-gradient(top, #FCFCFC 0, #A8A8A8 100%) no-repeat;
    background: -webkit-linear-gradient(top, #FCFCFC 0, #A8A8A8 100%) no-repeat;
    background: -moz-linear-gradient(top, #FCFCFC 0, #A8A8A8 100%) no-repeat;
@@ -1655,7 +1655,7 @@ label.art-radiobutton.hovered:before
 
 .art-commentsform
 {
-   background: #E2E8EE;
+   background: white;
    background: transparent;
    padding:10px;
    margin:0 auto;
@@ -1688,7 +1688,7 @@ label.art-radiobutton.hovered:before
 }
 .art-post
 {
-   background: #FAFAFA;
+   background: white;
    background: rgba(250, 250, 250, 0.9);
    -webkit-border-radius:6px;
    -moz-border-radius:6px;
@@ -1789,7 +1789,7 @@ pre
 
 .art-postmetadataheader
 {
-   background: #E3E3E3;
+   background: white;
    background: rgba(227, 227, 227, 0.8);
    border-bottom:1px solid #D4D4D4;
    margin:0 auto;
