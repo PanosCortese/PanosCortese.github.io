@@ -962,7 +962,7 @@ div.art-block img
 
 .art-blockheader
 {
-   background: #D9D9D9;
+   background: #ffffff;
    padding:12px 10px;
    margin:0 auto;
 }
@@ -984,7 +984,7 @@ div.art-block img
 
 .art-blockcontent
 {
-   background: #EBEBEB;
+   background: #D9D9D9;
    padding:10px;
    margin:0 auto;
    color: black;
@@ -1130,7 +1130,7 @@ input.art-button
 
 .art-button.active, .art-button.active:hover
 {
-   background: #2777B9;
+   background: #ffffff;
    background: linear-gradient(top, rgba(61, 145, 214, 0.8) 0, rgba(45, 136, 210, 0.8) 20%, rgba(30, 92, 143, 0.8) 100%) no-repeat;
    background: -webkit-linear-gradient(top, rgba(61, 145, 214, 0.8) 0, rgba(45, 136, 210, 0.8) 20%, rgba(30, 92, 143, 0.8) 100%) no-repeat;
    background: -moz-linear-gradient(top, rgba(61, 145, 214, 0.8) 0, rgba(45, 136, 210, 0.8) 20%, rgba(30, 92, 143, 0.8) 100%) no-repeat;
