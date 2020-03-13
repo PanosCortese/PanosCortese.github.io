@@ -2,7 +2,7 @@
 
 #art-main
 {
-   background: #FFFFFF url('images/page.png') fixed;
+   background: white url('images/page.png') fixed;
    margin:0 auto;
    font-size: 18px;
    font-family: Arial, "Helvetica Neue Light", Helvetica, sans-serif;
@@ -660,14 +660,14 @@ ul.art-hmenu>li>a
 
 ul.art-hmenu>li>a.active
 {
-   background: #FFFFFF;
-   background: linear-gradient(top, #FFFFFF 0, #D1D1D1 100%) no-repeat;
-   background: -webkit-linear-gradient(top, #FFFFFF 0, #D1D1D1 100%) no-repeat;
-   background: -moz-linear-gradient(top, #FFFFFF 0, #D1D1D1 100%) no-repeat;
-   background: -o-linear-gradient(top, #FFFFFF 0, #D1D1D1 100%) no-repeat;
-   background: -ms-linear-gradient(top, #FFFFFF 0, #D1D1D1 100%) no-repeat;
-   background: linear-gradient(top, #FFFFFF 0, #D1D1D1 100%) no-repeat;
-   -svg-background: linear-gradient(top, #FFFFFF 0, #D1D1D1 100%) no-repeat;
+   background: white;
+   background: linear-gradient(top, white 0, #D1D1D1 100%) no-repeat;
+   background: -webkit-linear-gradient(top, white 0, #D1D1D1 100%) no-repeat;
+   background: -moz-linear-gradient(top, white 0, #D1D1D1 100%) no-repeat;
+   background: -o-linear-gradient(top, white 0, #D1D1D1 100%) no-repeat;
+   background: -ms-linear-gradient(top, white 0, #D1D1D1 100%) no-repeat;
+   background: linear-gradient(top, white 0, #D1D1D1 100%) no-repeat;
+   -svg-background: linear-gradient(top, white 0, #D1D1D1 100%) no-repeat;
    -webkit-border-radius:5px 5px 0 0;
    -moz-border-radius:5px 5px 0 0;
    border-radius:5px 5px 0 0;
@@ -703,7 +703,7 @@ ul.art-hmenu>li>a:hover, .desktop ul.art-hmenu>li:hover>a
 }
 ul.art-hmenu>li>a:hover,
 .desktop ul.art-hmenu>li:hover>a {
-   color: #FFFFFF;
+   color: white;
    text-decoration: none;
 }
 ul.art-hmenu>li>a.active:hover {
@@ -907,7 +907,7 @@ ul.art-hmenu ul
 
 .art-sheet
 {
-   background: #ffffff;
+   background: white;
    background: transparent;
    border:1px solid transparent;
    border-top:none;
@@ -962,7 +962,7 @@ div.art-block img
 
 .art-blockheader
 {
-   background: #ffffff;
+   background: white;
    padding:12px 10px;
    margin:0 auto;
 }
@@ -1088,7 +1088,7 @@ button.art-button
    vertical-align: middle;
    white-space: nowrap;
    text-align: center;
-   color: #FFFFFF;
+   color: white;
    margin: 0 5px 0 0 !important;
    overflow: visible;
    cursor: pointer;
@@ -1130,7 +1130,7 @@ input.art-button
 
 .art-button.active, .art-button.active:hover
 {
-   background: #ffffff;
+   background: white;
    background: linear-gradient(top, rgba(61, 145, 214, 0.8) 0, rgba(45, 136, 210, 0.8) 20%, rgba(30, 92, 143, 0.8) 100%) no-repeat;
    background: -webkit-linear-gradient(top, rgba(61, 145, 214, 0.8) 0, rgba(45, 136, 210, 0.8) 20%, rgba(30, 92, 143, 0.8) 100%) no-repeat;
    background: -moz-linear-gradient(top, rgba(61, 145, 214, 0.8) 0, rgba(45, 136, 210, 0.8) 20%, rgba(30, 92, 143, 0.8) 100%) no-repeat;
@@ -1173,7 +1173,7 @@ input.art-button
    margin:0 auto;
 }
 .art-button.hover, .art-button:hover {
-   color: #FFFFFF !important;
+   color: white !important;
 }
 
 input[type="text"], input[type="password"], input[type="email"], input[type="url"], textarea
@@ -1526,13 +1526,13 @@ label.art-radiobutton.hovered:before
 .art-pager
 {
    background: #EFF2F5;
-   background: linear-gradient(top, #FFFFFF 0, #93A8BE 100%) no-repeat;
-   background: -webkit-linear-gradient(top, #FFFFFF 0, #93A8BE 100%) no-repeat;
-   background: -moz-linear-gradient(top, #FFFFFF 0, #93A8BE 100%) no-repeat;
-   background: -o-linear-gradient(top, #FFFFFF 0, #93A8BE 100%) no-repeat;
-   background: -ms-linear-gradient(top, #FFFFFF 0, #93A8BE 100%) no-repeat;
-   background: linear-gradient(top, #FFFFFF 0, #93A8BE 100%) no-repeat;
-   -svg-background: linear-gradient(top, #FFFFFF 0, #93A8BE 100%) no-repeat;
+   background: linear-gradient(top, white 0, #93A8BE 100%) no-repeat;
+   background: -webkit-linear-gradient(top, white 0, #93A8BE 100%) no-repeat;
+   background: -moz-linear-gradient(top, white 0, #93A8BE 100%) no-repeat;
+   background: -o-linear-gradient(top, white 0, #93A8BE 100%) no-repeat;
+   background: -ms-linear-gradient(top, white 0, #93A8BE 100%) no-repeat;
+   background: linear-gradient(top, white 0, #93A8BE 100%) no-repeat;
+   -svg-background: linear-gradient(top, white 0, #93A8BE 100%) no-repeat;
    -webkit-border-radius:2px;
    -moz-border-radius:2px;
    border-radius:2px;
@@ -1593,7 +1593,7 @@ label.art-radiobutton.hovered:before
    border:1px solid #D4D4D4;
    padding:7px;
    margin:0 4px 0 auto;
-   color: #FFFFFF
+   color: white
 ;
 }
 
