@@ -2,7 +2,7 @@
 
 #art-main
 {
-   background: white url('images/page.png') fixed;
+   background: #FFFFFF url('images/page.png') fixed;
    margin:0 auto;
    font-size: 18px;
    font-family: Arial, "Helvetica Neue Light", Helvetica, sans-serif;
@@ -661,7 +661,7 @@ ul.art-hmenu>li>a
 
 ul.art-hmenu>li>a.active
 {
-   background: white;
+   background: #FFFFFF;
    background: linear-gradient(top, white 0, #D1D1D1 100%) no-repeat;
    background: -webkit-linear-gradient(top, white 0, #D1D1D1 100%) no-repeat;
    background: -moz-linear-gradient(top, white 0, #D1D1D1 100%) no-repeat;
@@ -688,7 +688,7 @@ ul.art-hmenu>li:hover>a {
 
 ul.art-hmenu>li>a:hover, .desktop ul.art-hmenu>li:hover>a
 {
-   background: #8C8C8C;
+   background: #FFFFFF;
    background: linear-gradient(top, #9E9E9E 0, #808080 86%, #7A7A7A 100%) no-repeat;
    background: -webkit-linear-gradient(top, #9E9E9E 0, #808080 86%, #7A7A7A 100%) no-repeat;
    background: -moz-linear-gradient(top, #9E9E9E 0, #808080 86%, #7A7A7A 100%) no-repeat;
@@ -908,7 +908,7 @@ ul.art-hmenu ul
 
 .art-sheet
 {
-   background: white;
+   background: #FFFFFF;
    background: transparent;
    border:1px solid transparent;
    border-top:none;
@@ -963,7 +963,7 @@ div.art-block img
 
 .art-blockheader
 {
-   background: white;
+   background: #FFFFFF;
    padding:12px 10px;
    margin:0 auto;
 }
@@ -985,7 +985,7 @@ div.art-block img
 
 .art-blockcontent
 {
-   background: white;
+   background: #FFFFFF;
    padding:10px;
    margin:0 auto;
    color: black;
@@ -1131,7 +1131,7 @@ input.art-button
 
 .art-button.active, .art-button.active:hover
 {
-   background: white;
+   background: #FFFFFF;
    background: linear-gradient(top, rgba(61, 145, 214, 0.8) 0, rgba(45, 136, 210, 0.8) 20%, rgba(30, 92, 143, 0.8) 100%) no-repeat;
    background: -webkit-linear-gradient(top, rgba(61, 145, 214, 0.8) 0, rgba(45, 136, 210, 0.8) 20%, rgba(30, 92, 143, 0.8) 100%) no-repeat;
    background: -moz-linear-gradient(top, rgba(61, 145, 214, 0.8) 0, rgba(45, 136, 210, 0.8) 20%, rgba(30, 92, 143, 0.8) 100%) no-repeat;
@@ -1179,7 +1179,7 @@ input.art-button
 
 input[type="text"], input[type="password"], input[type="email"], input[type="url"], textarea
 {
-   background: white;
+   background: #FFFFFF;
    border:1px solid rgba(108, 172, 224, 0.2);
    margin:0 auto;
 }
@@ -1196,7 +1196,7 @@ input[type="text"], input[type="password"], input[type="email"], input[type="url
 }
 input.art-error, textarea.art-error
 {
-   background: white;
+   background: #FFFFFF;
    border:1px solid #E2341D;
    margin:0 auto;
 }
@@ -1209,7 +1209,7 @@ input.art-error, textarea.art-error {
 }
 form.art-search input[type="text"]
 {
-   background: white;
+   background: #FFFFFF;
    border-radius: 0;
    border:1px solid #CCD6E0;
    margin:0 auto;
@@ -1297,7 +1297,7 @@ a.art-search-button:hover, a.art-search-button.hover
 
 label.art-checkbox:before
 {
-   background: white;
+   background: #FFFFFF;
    -webkit-border-radius:1px;
    -moz-border-radius:1px;
    border-radius:1px;
@@ -1325,7 +1325,7 @@ label.art-checkbox
 
 label.art-checkbox.active:before
 {
-   background: #ABABAB;
+   background: #FFFFFF;
    -webkit-border-radius:1px;
    -moz-border-radius:1px;
    border-radius:1px;
@@ -1338,7 +1338,7 @@ label.art-checkbox.active:before
 
 label.art-checkbox.hovered:before
 {
-   background: #D4D4D4;
+   background: #FFFFFF;
    -webkit-border-radius:1px;
    -moz-border-radius:1px;
    border-radius:1px;
@@ -1351,7 +1351,7 @@ label.art-checkbox.hovered:before
 
 label.art-radiobutton:before
 {
-   background: white;
+   background: #FFFFFF;
    -webkit-border-radius:3px;
    -moz-border-radius:3px;
    border-radius:3px;
@@ -1380,7 +1380,7 @@ label.art-radiobutton
 
 label.art-radiobutton.active:before
 {
-   background: #ABABAB;
+   background: #FFFFFF;
    -webkit-border-radius:3px;
    -moz-border-radius:3px;
    border-radius:3px;
@@ -1393,7 +1393,7 @@ label.art-radiobutton.active:before
 
 label.art-radiobutton.hovered:before
 {
-   background: #D4D4D4;
+   background: #FFFFFF;
    -webkit-border-radius:3px;
    -moz-border-radius:3px;
    border-radius:3px;
@@ -1418,7 +1418,7 @@ label.art-radiobutton.hovered:before
 
 .art-comment-inner
 {
-   background: white;
+   background: #FFFFFF;
    background: transparent;
    -webkit-border-radius:2px;
    -moz-border-radius:2px;
@@ -1433,7 +1433,7 @@ label.art-radiobutton.hovered:before
    width:80px;
    height:80px;
    padding:1px;
-   background: white;
+   background: #FFFFFF;
    border:1px solid #E2E8EE;
 }
 
@@ -1526,7 +1526,7 @@ label.art-radiobutton.hovered:before
 
 .art-pager
 {
-   background: white;
+   background: #FFFFFF;
    background: linear-gradient(top, white 0, #93A8BE 100%) no-repeat;
    background: -webkit-linear-gradient(top, white 0, #93A8BE 100%) no-repeat;
    background: -moz-linear-gradient(top, white 0, #93A8BE 100%) no-repeat;
@@ -1553,7 +1553,7 @@ label.art-radiobutton.hovered:before
 
 .art-pager>*
 {
-   background: white;
+   background: #FFFFFF;
    background: linear-gradient(top, #FCFCFC 0, #A8A8A8 100%) no-repeat;
    background: -webkit-linear-gradient(top, #FCFCFC 0, #A8A8A8 100%) no-repeat;
    background: -moz-linear-gradient(top, #FCFCFC 0, #A8A8A8 100%) no-repeat;
@@ -1583,7 +1583,7 @@ label.art-radiobutton.hovered:before
 
 .art-pager .active
 {
-   background: #B6BFC9;
+   background: #FFFFFF;
    background: linear-gradient(top, #E5E8EB 0, #8796A6 100%) no-repeat;
    background: -webkit-linear-gradient(top, #E5E8EB 0, #8796A6 100%) no-repeat;
    background: -moz-linear-gradient(top, #E5E8EB 0, #8796A6 100%) no-repeat;
@@ -1600,7 +1600,7 @@ label.art-radiobutton.hovered:before
 
 .art-pager .more
 {
-   background: #D4D4D4;
+   background: #FFFFFF;
    background: linear-gradient(top, #FCFCFC 0, #A8A8A8 100%) no-repeat;
    background: -webkit-linear-gradient(top, #FCFCFC 0, #A8A8A8 100%) no-repeat;
    background: -moz-linear-gradient(top, #FCFCFC 0, #A8A8A8 100%) no-repeat;
@@ -1619,7 +1619,7 @@ label.art-radiobutton.hovered:before
 }
 .art-pager a:hover
 {
-   background: #ABABAB;
+   background: #FFFFFF;
    background: linear-gradient(top, #D1D1D1 0, #828282 100%) no-repeat;
    background: -webkit-linear-gradient(top, #D1D1D1 0, #828282 100%) no-repeat;
    background: -moz-linear-gradient(top, #D1D1D1 0, #828282 100%) no-repeat;
@@ -1656,7 +1656,7 @@ label.art-radiobutton.hovered:before
 
 .art-commentsform
 {
-   background: white;
+   background: #FFFFFF;
    background: transparent;
    padding:10px;
    margin:0 auto;
@@ -1689,7 +1689,7 @@ label.art-radiobutton.hovered:before
 }
 .art-post
 {
-   background: white;
+   background: #FFFFFF;
    background: rgba(250, 250, 250, 0.9);
    -webkit-border-radius:6px;
    -moz-border-radius:6px;
@@ -1790,7 +1790,7 @@ pre
 
 .art-postmetadataheader
 {
-   background: white;
+   background: #FFFFFF;
    background: rgba(227, 227, 227, 0.8);
    border-bottom:1px solid #D4D4D4;
    margin:0 auto;
@@ -2100,7 +2100,7 @@ blockquote p,
 
 .art-postmetadatafooter
 {
-   background: #E3E3E3;
+   background: #FFFFFF;
    background: rgba(227, 227, 227, 0.8);
    margin:0 auto;
    position:relative;
@@ -2426,7 +2426,7 @@ blockquote p,
 
 .art-lightbox-wrapper .lightbox-error
 {
-   background: #fff;
+   background: #FFFFFF;
    border: 1px solid #b4b4b4;
    border-radius: 10px;
    box-shadow: 0 2px 5px #333;
@@ -2440,7 +2440,7 @@ blockquote p,
 
 .art-lightbox-wrapper .loading
 {
-   background: #fff url('images/preloader-01.gif') center center no-repeat;
+   background: #FFFFFF url('images/preloader-01.gif') center center no-repeat;
    border: 1px solid #b4b4b4;
    border-radius: 10px;
    box-shadow: 0 2px 5px #333;
